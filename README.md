@@ -20,6 +20,7 @@ Um script em Python simples e eficiente que organiza automaticamente os arquivos
 
 ## 📋 Como Executar o Projeto
 
+
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/Ianzebe/organizador-de-pastas-python.git)
+   git clone https://github.com/Ianzebe/organizador-de-pastas-python.git
